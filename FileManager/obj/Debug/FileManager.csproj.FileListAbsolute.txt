@@ -1,0 +1,8 @@
+D:\Студент\Волков Плотникова\FileManager\FileManager\bin\Debug\FileManager.exe.config
+D:\Студент\Волков Плотникова\FileManager\FileManager\bin\Debug\FileManager.exe
+D:\Студент\Волков Плотникова\FileManager\FileManager\bin\Debug\FileManager.pdb
+D:\Студент\Волков Плотникова\FileManager\FileManager\obj\Debug\FileManager.csproj.AssemblyReference.cache
+D:\Студент\Волков Плотникова\FileManager\FileManager\obj\Debug\FileManager.csproj.SuggestedBindingRedirects.cache
+D:\Студент\Волков Плотникова\FileManager\FileManager\obj\Debug\FileManager.csproj.CoreCompileInputs.cache
+D:\Студент\Волков Плотникова\FileManager\FileManager\obj\Debug\FileManager.exe
+D:\Студент\Волков Плотникова\FileManager\FileManager\obj\Debug\FileManager.pdb
