@@ -6,3 +6,11 @@ D:\Студент\Волков Плотникова\FileManager\FileManager\obj\
 D:\Студент\Волков Плотникова\FileManager\FileManager\obj\Debug\FileManager.csproj.CoreCompileInputs.cache
 D:\Студент\Волков Плотникова\FileManager\FileManager\obj\Debug\FileManager.exe
 D:\Студент\Волков Плотникова\FileManager\FileManager\obj\Debug\FileManager.pdb
+C:\Users\Пользователь\Desktop\kek\FileManager\FileManager\obj\Debug\FileManager.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\kek\FileManager\FileManager\obj\Debug\FileManager.csproj.SuggestedBindingRedirects.cache
+C:\Users\Пользователь\Desktop\kek\FileManager\FileManager\obj\Debug\FileManager.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\kek\FileManager\FileManager\obj\Debug\FileManager.exe
+C:\Users\Пользователь\Desktop\kek\FileManager\FileManager\obj\Debug\FileManager.pdb
+C:\Users\Пользователь\Desktop\kek\FileManager\FileManager\bin\Debug\FileManager.exe.config
+C:\Users\Пользователь\Desktop\kek\FileManager\FileManager\bin\Debug\FileManager.exe
+C:\Users\Пользователь\Desktop\kek\FileManager\FileManager\bin\Debug\FileManager.pdb
